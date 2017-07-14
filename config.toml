@@ -1,0 +1,13 @@
+baseurl = "https://ripleys.tk/"
+languageCode = "en-us"
+theme = "light-hugo"
+
+title = "Ripleys Poodles"
+author = "Thomas Willms"
+
+[Params]
+  description = "Breeder of Champion Miniature poodles, CKC Reg'd- Health tested -Quality puppies from top American/Canadian Show Lines. We are located in British Columbia, Canada."
+  email = "ripleys@willmz.com"
+  facebook = "Ripleys-Regd-Poodles-191823990867377"
+  youtube = "melissalovespuppys"
+  logo = "/i/logo.png"

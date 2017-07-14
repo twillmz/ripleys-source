@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ripleys Poodles</title>
+    <link>https://ripleys.tk/</link>
+    <description>Recent content in Home on Ripleys Poodles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jun 2017 17:44:50 -0700</lastBuildDate>
+    
+	<atom:link href="https://ripleys.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puppies</title>
+      <link>https://ripleys.tk/puppies/</link>
+      <pubDate>Sat, 03 Jun 2017 20:28:07 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/puppies/</guid>
+      <description>We have a litter planned for August.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://ripleys.tk/history/</link>
+      <pubDate>Sat, 03 Jun 2017 20:28:00 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/history/</guid>
+      <description>Darla Willms starting breeding champion toy poodles in the early 1990s, showing numerous dogs to their Canadian and American championships, many of those same toys went on to earn top obedience and agility titles, A few were even on the Super dogs team.
+In 2001 Darla aquired her first Miniature Poodle CH.Legend Larkin At Ripleys. Today Darla is breeding one litter every few years with her daughter Melissa. Their dogs compete regularly in agility, rally, obedience, nose work, and conformation, Obtaining titles in all that they do.</description>
+    </item>
+    
+    <item>
+      <title>Agility</title>
+      <link>https://ripleys.tk/agility/</link>
+      <pubDate>Sat, 03 Jun 2017 20:27:50 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/agility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obedience</title>
+      <link>https://ripleys.tk/obedience/</link>
+      <pubDate>Sat, 03 Jun 2017 20:27:45 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/obedience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cute</title>
+      <link>https://ripleys.tk/cute/</link>
+      <pubDate>Sat, 03 Jun 2017 19:35:16 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/cute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smudge</title>
+      <link>https://ripleys.tk/smudge/</link>
+      <pubDate>Sat, 03 Jun 2017 19:35:04 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/smudge/</guid>
+      <description>Ripleys Reflection ADC, NPAD, CGN, RN, AGNJ</description>
+    </item>
+    
+    <item>
+      <title>Logan</title>
+      <link>https://ripleys.tk/logan/</link>
+      <pubDate>Sat, 03 Jun 2017 19:34:58 -0700</pubDate>
+      
+      <guid>https://ripleys.tk/logan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larkin</title>
+      <link>https://ripleys.tk/larkin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ripleys.tk/larkin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
